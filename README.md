@@ -1,2 +1,2 @@
 # Maple-Empire
-A financial mobile game for iOS and Android made in C# and Unity
+A financial game made as a command line application in Java
